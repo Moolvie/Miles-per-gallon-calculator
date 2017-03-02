@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles_per_Gallon_Calculator.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles_per_Gallon_Calculator.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.xml
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.exe
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.xml
+c:\users\owner\documents\visual studio 2012\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.pdb
